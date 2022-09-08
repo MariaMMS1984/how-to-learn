@@ -362,12 +362,11 @@ p {
 
 .footer__column-links {
   margin: 0;
-  padding: 0;
+  padding: 0 0 16px;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   list-style: none;
-  last-of-type: 16px;
   color: white;
 }
 
@@ -381,12 +380,11 @@ p {
 
 .footer__column-link {
   margin: 0;
-  padding: 0;
+  padding: 0 0 16px;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   list-style: none;
-  last-of-type: 16px;
   color: white;
 }
 
