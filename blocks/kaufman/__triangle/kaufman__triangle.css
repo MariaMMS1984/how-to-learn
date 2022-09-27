@@ -7,8 +7,4 @@
     z-index: 0;
     background-image: url("../../../images/kaufman-triangle.svg");
     background-size: contain;
-    animation-name: rotation;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
 }
