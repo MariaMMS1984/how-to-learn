@@ -3,7 +3,7 @@
 
 ## Ссылки на проект
 
-Сайт доступен по адресу: https://mariamms1984.github.io/how-to-learn/.
+Адрес репозитория: https://github.com/MariaMMS1984/how-to-learn.
 
 ## Стек технологий:
 - HTML5;
