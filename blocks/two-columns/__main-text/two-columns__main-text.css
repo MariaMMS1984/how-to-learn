@@ -5,3 +5,8 @@
     gap: 30px;
     min-width: 784px;
 }
+
+@media (max-width: 425px) {
+    .two-columns__main-text {
+        width: 10%;
+    }
